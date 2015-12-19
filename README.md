@@ -8,6 +8,6 @@ Calculating interaction energy between nearest neighbors for each spin within th
 
 To determine the temperature of the phase transitions, the metropolis simulation was run for several different temperatures. Specific heat is calculated for several steps, and is then plotted against temperature. Phase transition corresponds to the specific heat of the material. The graph for this information is presented below.
 
-!(Ising Graph)(ising.png)
+![Ising Graph](ising.png)
 
 Special thanks to Filip Bergabo for assistance.
